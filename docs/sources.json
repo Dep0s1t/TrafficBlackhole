@@ -323,5 +323,15 @@
         "text": "EDIS New York, USA",
         "size": 10,
         "link": "https://us.edis.at/10MB.test"
+    },
+    {
+        "text": "Servarica, Montreal, Canada",
+        "size": 1024,
+        "link": "https://ping.servarica.com/1GB.test"
+    },
+    {
+        "text": "1GServers, Phoenix, USA",
+        "size": 1024,
+        "link": "http://speedtest.1gservers.com/1GB.test"
     }
 ]
