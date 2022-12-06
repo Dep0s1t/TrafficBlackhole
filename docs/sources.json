@@ -336,17 +336,12 @@
     },
     {
         "text": "Vultr, Toronto, Canada",
-        "size": 1024,
+        "size": 1000,
         "link": "https://tor-ca-ping.vultr.com/vultr.com.1000MB.bin"
     },
     {
         "text": "DigitalOcean, Toronto, Canada",
-        "size": 1024,
-        "link": "http://speedtest-tor1.digitalocean.com/5gb.test"
-    },
-    {
-        "text": "DigitalOcean, Toronto, Canada",
-        "size": 1024,
+        "size": 5120,
         "link": "http://speedtest-tor1.digitalocean.com/5gb.test"
     }
 ]
