@@ -333,5 +333,20 @@
         "text": "1GServers, Phoenix, USA",
         "size": 1024,
         "link": "http://speedtest.1gservers.com/1GB.test"
+    },
+    {
+        "text": "Vultr, Toronto, Canada",
+        "size": 1024,
+        "link": "https://tor-ca-ping.vultr.com/vultr.com.1000MB.bin"
+    },
+    {
+        "text": "DigitalOcean, Toronto, Canada",
+        "size": 1024,
+        "link": "http://speedtest-tor1.digitalocean.com/5gb.test"
+    },
+    {
+        "text": "DigitalOcean, Toronto, Canada",
+        "size": 1024,
+        "link": "http://speedtest-tor1.digitalocean.com/5gb.test"
     }
 ]
